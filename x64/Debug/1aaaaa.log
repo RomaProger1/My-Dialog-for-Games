@@ -1,4 +1,4 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (1aaaaa.vcxproj).  Это может привести к ошибкам очистки и перестроения.
   1aaaaa.cpp
-E:\C++\Proets\1aaaaa\1aaaaa.cpp(43,18): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+E:\C++\Proets\1aaaaa\1aaaaa.cpp(42,18): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
   1aaaaa.vcxproj -> E:\C++\Proets\1aaaaa\x64\Debug\Диалоги для игры.exe

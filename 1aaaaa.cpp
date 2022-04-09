@@ -30,10 +30,9 @@ using namespace std;
 		}
 		else if (Oplata == 2)
 		{
-			while (Oplata == 2)
-			{
+			cout << "Вы вернулись назад" << endl;
 				dialog1();
-			}
+			
 		}
 		break;
 	case 2:
@@ -42,7 +41,7 @@ using namespace std;
 	default:
 		while (Name != true)
 		{
-			cout << "Нет тaкого варианта ! :)";
+			cout << "Нет тaкого варианта ! :)" << endl;
 			dialog1();
 		}
 		break;
